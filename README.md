@@ -7,6 +7,8 @@ The online computer related courses I learned during my free time.
 
 [MIT 18.02 - Multivariable Calculus 多变量微积分](https://www.bilibili.com/video/BV1GY4y1B7x6/)
 
+[MIT 18.06 - linear Algebra 线性代数](https://www.bilibili.com/video/BV1zx411g7gq/)
+
 ## Artificial Intelligence 
 
 ### Machine Learning
