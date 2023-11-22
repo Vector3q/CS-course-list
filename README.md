@@ -11,7 +11,9 @@ The online computer related courses I learned during my free time.
 
 ## Artificial Intelligence 
 
-### Machine Learning
+### Machine Learning and Deep Learning
+
+[动手学深度学习 PyTorch版](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497)
 
 ### Reinforcement Learning
 [西湖大学赵世钰: 强化学习的数学原理(CN)](https://www.bilibili.com/video/BV1sd4y167NS)
