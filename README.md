@@ -9,6 +9,8 @@ The online computer related courses I learned during my free time.
 
 [MIT 18.06 - linear Algebra 线性代数](https://www.bilibili.com/video/BV1zx411g7gq/)
 
+[机器学习白板推导系列](https://www.bilibili.com/video/BV1aE411o7qd/)
+
 ## Artificial Intelligence 
 
 ### Machine Learning and Deep Learning
@@ -16,7 +18,7 @@ The online computer related courses I learned during my free time.
 [李沐: 动手学深度学习 PyTorch版](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497)
 
 ### Reinforcement Learning
-[西湖大学赵世钰: 强化学习的数学原理(CN)](https://www.bilibili.com/video/BV1sd4y167NS)
+[西湖大学赵世钰: 强化学习的数学原理](https://www.bilibili.com/video/BV1sd4y167NS)
 
 ## Computer System
 
