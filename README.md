@@ -20,6 +20,7 @@ The online computer related courses I learned during my free time.
 ### Reinforcement Learning
 [西湖大学赵世钰: 强化学习的数学原理](https://www.bilibili.com/video/BV1sd4y167NS)
 
+[OpenAI Spinning Up](https://spinningup.openai.com/en/latest/)
 ## Computer System
 
 ## Computer Graphics
