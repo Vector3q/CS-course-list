@@ -31,3 +31,7 @@ The online computer related courses I learned during my free time.
 ## Extended Reality(XR)
 
 [How to Interact in VR - Oculus Interaction SDK](https://www.youtube.com/watch?v=1FRqniErAfs&list)
+
+## Web
+
+[Flask](https://tutorial.helloflask.com/)
