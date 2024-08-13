@@ -1,5 +1,5 @@
 # CS-course-list
-The online computer related courses I learned during my free time.
+The online computer related courses I have learned during my free time.
 -----------
 ## Mathematics
 
@@ -31,6 +31,9 @@ The online computer related courses I learned during my free time.
 [Unity Shader](https://github.com/candycat1992/Unity_Shaders_Book?tab=readme-ov-file)
 
 [ronja-tutorials](https://www.ronja-tutorials.com/)
+
+## Computer Vision
+[CMU16-825: Learning for 3D Vision](https://learning3d.github.io/)
 
 ## Extended Reality(XR)
 
