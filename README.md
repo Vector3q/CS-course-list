@@ -1,5 +1,5 @@
 # CS-course-list
-The online computer related courses I have learned during my free time.
+The online computer-related courses I have completed or am currently taking in my free time.
 -----------
 ## Mathematics
 
