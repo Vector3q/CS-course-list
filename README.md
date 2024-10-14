@@ -35,6 +35,8 @@ The online computer-related courses I have completed or am currently taking in m
 ## Computer Vision
 [CMU16-825: Learning for 3D Vision](https://learning3d.github.io/)
 
+[CS231A: Computer Vision, From 3D Perception to 3D Reconstruction and beyond](https://web.stanford.edu/class/cs231a/index.html)
+
 ## Extended Reality(XR)
 
 [How to Interact in VR - Oculus Interaction SDK](https://www.youtube.com/watch?v=1FRqniErAfs&list)
