@@ -37,9 +37,9 @@ The online computer-related courses I have completed or am currently taking in m
 
 [CS231A: Computer Vision, From 3D Perception to 3D Reconstruction and beyond](https://web.stanford.edu/class/cs231a/index.html)
 
-## Extended Reality(XR)
+## Coding
 
-[How to Interact in VR - Oculus Interaction SDK](https://www.youtube.com/watch?v=1FRqniErAfs&list)
+[Annotated Deep Learning Paper Implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
 
 ## Web
 
