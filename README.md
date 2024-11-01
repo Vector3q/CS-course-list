@@ -41,6 +41,8 @@ The online computer-related courses I have completed or am currently taking in m
 
 [Annotated Deep Learning Paper Implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
 
+[CUDA Programming Fundamentals Beginner Series](https://www.bilibili.com/video/BV1sM4y1x7of/)
+
 ## Web
 
 [Flask](https://tutorial.helloflask.com/)
@@ -48,3 +50,5 @@ The online computer-related courses I have completed or am currently taking in m
 ## General Development
 
 [Design Pattern](https://github.com/QianMo/Unity-Design-Pattern)
+
+
