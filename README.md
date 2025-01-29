@@ -21,6 +21,10 @@ The online computer-related courses I have completed or am currently taking in m
 [西湖大学赵世钰: 强化学习的数学原理](https://www.bilibili.com/video/BV1sd4y167NS)
 
 [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/)
+
+### LLM
+[LLMs-Zero-to-Hero](https://www.bilibili.com/video/BV1qWwke5E3K)
+
 ## Computer System
 
 ## Computer Graphics
