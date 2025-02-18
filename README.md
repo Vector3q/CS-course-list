@@ -1,11 +1,13 @@
 # CS-course-list
-The online computer-related courses I have completed or am currently taking in my free time.
+The online computer-related courses I have completed or am currently taking in my free time (Book is also included).
 -----------
 ## Mathematics
 
 [MIT 18.01 - Single Variable Calculus 单变量微积分](https://www.bilibili.com/video/BV1mx411S7M3/)
 
 [MIT 18.02 - Multivariable Calculus 多变量微积分](https://www.bilibili.com/video/BV1GY4y1B7x6/)
+
+[Analysis I - Terence Tao](https://tiu-edu.uz/media/books/2024/05/28/1664976801.pdf)
 
 [MIT 18.06 - linear Algebra 线性代数](https://www.bilibili.com/video/BV1zx411g7gq/)
 
