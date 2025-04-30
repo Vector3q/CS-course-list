@@ -30,6 +30,8 @@ The online computer-related courses I have completed or am currently taking in m
 ## Computer System
 
 ## Computer Graphics
+[Color Model](https://www.jianshu.com/p/f03e9ac9c9ef)
+
 [GAMES101](https://www.bilibili.com/video/BV1X7411F744), [GAMES102](https://www.bilibili.com/video/BV1NA411E7Yr)
 
 [Learn OpenGL](https://learnopengl.com/Introduction)
