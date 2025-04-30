@@ -27,6 +27,8 @@ The online computer-related courses I have completed or am currently taking in m
 ### LLM
 [LLMs-Zero-to-Hero](https://www.bilibili.com/video/BV1qWwke5E3K)
 
+[LLM-TT](https://github.com/TongTong313/LLM-TT)
+
 ## Computer System
 
 ## Computer Graphics
