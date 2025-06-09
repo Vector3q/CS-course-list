@@ -29,6 +29,8 @@ The online computer-related courses I have completed or am currently taking in m
 
 [LLM-TT](https://github.com/TongTong313/LLM-TT)
 
+[CS336](https://www.youtube.com/watch?v=SQ3fZ1sAqXI&list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_)
+
 ## Computer System
 
 ## Computer Graphics
