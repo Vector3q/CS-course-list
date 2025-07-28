@@ -3,24 +3,24 @@ The online computer-related courses I have completed or am currently taking in m
 -----------
 ## Mathematics
 
-[MIT 18.01 - Single Variable Calculus 单变量微积分](https://www.bilibili.com/video/BV1mx411S7M3/)
+[MIT 18.01 - Single Variable Calculus](https://www.bilibili.com/video/BV1mx411S7M3/)
 
-[MIT 18.02 - Multivariable Calculus 多变量微积分](https://www.bilibili.com/video/BV1GY4y1B7x6/)
+[MIT 18.02 - Multivariable Calculus](https://www.bilibili.com/video/BV1GY4y1B7x6/)
 
 [Analysis I - Terence Tao](https://tiu-edu.uz/media/books/2024/05/28/1664976801.pdf)
 
-[MIT 18.06 - linear Algebra 线性代数](https://www.bilibili.com/video/BV1zx411g7gq/)
+[MIT 18.06 - linear Algebra](https://www.bilibili.com/video/BV1zx411g7gq/)
 
-[机器学习白板推导系列](https://www.bilibili.com/video/BV1aE411o7qd/)
+[Machine Learning Whiteboard Deduction Series](https://www.bilibili.com/video/BV1aE411o7qd/)
 
 ## Artificial Intelligence 
 
 ### Machine Learning and Deep Learning
 
-[李沐: 动手学深度学习 PyTorch版](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497)
+[Li Mu: Hands on learning of deep learning PyTorch version](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497)
 
 ### Reinforcement Learning
-[西湖大学赵世钰: 强化学习的数学原理](https://www.bilibili.com/video/BV1sd4y167NS)
+[Mathematical Principles of Reinforcement Learning](https://www.bilibili.com/video/BV1sd4y167NS)
 
 [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/)
 
