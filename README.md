@@ -13,6 +13,8 @@ The online computer-related courses I have completed or am currently taking in m
 
 [Machine Learning Whiteboard Deduction Series](https://www.bilibili.com/video/BV1aE411o7qd/)
 
+[Statistical Methods for HCI Research](https://yatani.jp/teaching/doku.php?id=hcistats:start)
+
 ## Artificial Intelligence 
 
 ### Machine Learning and Deep Learning
