@@ -33,6 +33,8 @@ The online computer-related courses I have completed or am currently taking in m
 
 [CS336](https://www.youtube.com/watch?v=SQ3fZ1sAqXI&list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_)
 
+[Agentic AI (Berkeley)](https://rdi.berkeley.edu/agentic-ai/f25)
+
 ## Computer System
 
 ## Computer Graphics
