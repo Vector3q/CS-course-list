@@ -35,7 +35,11 @@ The online computer-related courses I have completed or am currently taking in m
 
 [Agentic AI (Berkeley)](https://rdi.berkeley.edu/agentic-ai/f25)
 
+[Tiny-LLM](https://skyzh.github.io/tiny-llm/)
+
 ## Computer System
+
+[DL System](https://dlsyscourse.org/lectures/)
 
 ## Computer Graphics
 [Color Model](https://www.jianshu.com/p/f03e9ac9c9ef)
